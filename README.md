@@ -1,6 +1,6 @@
 # Code Sample
 
-This notebook presents a shortened example of my past work on election data for political campaigns. It focuses on cleaning and analyzing voter data from the North Carolina Secretary of State's office to build a predictive model that estimates the probability of each voter turning out in the 2024 general elections. The models are often used to help campaigns understand the electorate, optimize outreach strategies, and tailor messaging. Below is a breakdown of my approach.
+This notebook presents a shortened example of my past work on election data for political campaigns. It focuses on cleaning and analyzing voter data from the North Carolina Secretary of State's office to build a predictive model that estimates the probability of each voter turning out in the 2024 general election. These models are often used to help campaigns understand their electorate, optimize outreach strategies, and tailor messaging. Below is a breakdown of my approach.
 
 ## Data Cleaning & Pre-Processing
 
@@ -28,6 +28,6 @@ This analysis could be expanded in a number of ways:
 * Examining turnout likelihood across race, gender, or voting history.
 * Analyzing geographic patterns (ex: turnout by neighborhood)
 * Incorporating additional data (education, income, voter registration trends)
-* Repeating modeling across additional elections to assess impact of policy changes or voter enthusiasm.
+* Repeating modeling across additional elections to assess the impact of policy changes or voter enthusiasm.
 
 Thank you for viewing this code sample, and I welcome any questions/comments.
